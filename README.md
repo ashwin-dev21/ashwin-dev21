@@ -13,47 +13,36 @@
 
 ---
 
-### 🛠️ Toolkit
+### 🛠️ Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="25%" valign="top">
-      <b>FRONTEND</b><br><br>
-      <code>HTML</code><br>
-      <code>CSS</code><br>
-      <code>JavaScript</code><br>
-      <code>React</code><br>
-      <code>TypeScript</code><br>
-      <code>Next.js</code><br>
-      <code>Bootstrap</code><br>
-      <code>Redux</code>
-    </td>
-    <td width="25%" valign="top">
-      <b>BACKEND</b><br><br>
-      <code>Node.js</code><br>
-      <code>Express</code><br>
-      <code>MongoDB</code><br>
-      <code>Mongoose</code>
-    </td>
-    <td width="25%" valign="top">
-      <b>TOOLS</b><br><br>
-      <code>Git</code><br>
-      <code>GitHub</code><br>
-      <code>Vercel</code><br>
-      <code>REST APIs</code>
-    </td>
-    <td width="25%" valign="top">
-      <b>LEARNING</b><br><br>
-      <code>AI API Integration</code><br>
-      <code>Prompt Engineering</code><br>
-      <code>Vitest</code><br>
-      <code>React Testing Library</code><br>
-      <code>GitHub Actions</code><br>
-      <code>CI/CD</code><br>
-      <code>Framer Motion</code>
-    </td>
-  </tr>
-</table>
+**Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Frameworks & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%23f8f8f8" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+**Databases & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
 
 ---
 
