@@ -40,6 +40,7 @@
 
 **Databases & Cloud**
 <p align="left">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
@@ -59,7 +60,6 @@
 ---
 
 ### 📫 Connect with Me
-
 <p align="left">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
