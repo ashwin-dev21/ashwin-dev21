@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -45,24 +46,26 @@
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
+---
+
 ### 🔥 GitHub Stats & Streak
 
-
-
 <p align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=ashwin-dev21&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashwin's GitHub Stats" />
-
 </p>
-
-
 
 <p align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin-dev21&theme=tokyonight&hide_border=true" alt="Ashwin's GitHub Streak" />
-
 </p>
-
-
 
 ---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/ashwin-khadka" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ashwin.dev21@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
