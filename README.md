@@ -48,6 +48,28 @@
 ---
 
 ### 🔥 GitHub Stats & Streak
+---
+
+
+
+### 🔥 GitHub Stats & Streak
+
+
 
 <p align="center">
-  <img src="
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwin-dev21&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashwin's GitHub Stats" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin-dev21&theme=tokyonight&hide_border=true" alt="Ashwin's GitHub Streak" />
+
+</p>
+
+
+
+---
